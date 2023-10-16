@@ -134,9 +134,10 @@ a {
 .feature {
     display: flex;
     flex-direction: column;
-    background: #333;
+    background: #009cde;
     padding: 20px;
     border-radius: 5px;
+    color: #fff;
 }
 
 .feature-title {
