@@ -38,8 +38,8 @@ a {
 /* Navbar */
 #navbar {
     width: 100%;
-    background: #ffffff;
-    color: #009cde;
+    background: #009cde;
+    color: #fff;
     height: 80px;
     position: fixed;
 }
@@ -73,7 +73,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #009cde;
+    color: #fff;
     background: url('/img/showcase.jpg') no-repeat center center/cover;
 
     /* Overlay */
